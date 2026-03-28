@@ -1,0 +1,5 @@
+Unity Hub
+Unity 2022.x or later
+AR Foundation
+ARCore XR Plugin
+Android SDK
